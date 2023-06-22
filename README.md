@@ -2,8 +2,8 @@
 You can find the list of our sponsors and the opportunities they currently have available below. 
 
 If you are interested in finding out more opportunities, explore the following links:
-- (Fall 2023 Internships)[https://github.com/bsovs/Fall2023-Internships]
-- (Summer 2024 Internships)[https://github.com/pittcsc/Summer2024-Internships/tree/dev]
+- [Fall 2023 Internships](https://github.com/bsovs/Fall2023-Internships)
+- [Summer 2024 Internships](https://github.com/pittcsc/Summer2024-Internships/tree/dev)
 
 | Company              | Location                                          | Links                                                                                                                                                                                                                                                                                                                                                                                                     |
 | -------------------- | ------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
